@@ -1,0 +1,40 @@
+.menubaar{
+    background-color: brown;
+    list-style-type: none;
+    display: flex;
+}
+.menubaar li{
+    margin: 20px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.productshow{
+    background-color: brown;
+    list-style-type: none;
+    display: flex;
+}
+.productshow li{
+    margin: 20px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.productdata{
+    background-color: brown;
+    list-style-type: none;
+    display: flex;
+}
+.productdata li{
+    margin: 20px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.link{
+
+    width: 100;
+    height: 100;
+    background-color: aqua;
+    padding: 200;
+    text-decoration: none;
+    font-size: 20px;
+}
